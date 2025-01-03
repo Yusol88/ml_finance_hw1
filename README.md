@@ -11,4 +11,4 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Yusol88/financial_ml_project.git
+   git clone https://github.com/Yusol88/ml_finance_hw1
