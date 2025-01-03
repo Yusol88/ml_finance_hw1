@@ -3,4 +3,5 @@ numpy==2.2.1
 matplotlib==3.10
 seaborn==0.13.2
 yfinance==0.2.51
-os
+scipy==1.14.1
+fpdf==1.7.2

@@ -6,8 +6,9 @@
 - `/data`: Хранение данных и графиков.
 - `/notebooks`: Jupyter Notebooks для анализа.
 - `/scripts`: Python-скрипты для загрузки данных и построения графиков.
+- `/results`: Отчёты и результаты анализа.
 
-## Автоматическое построение графиков
-Для автоматического отображения графиков текущей ситуации используйте скрипт `plot_data.py`:
-```bash
-python scripts/plot_data.py
+## Установка
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/Yusol88/financial_ml_project.git
